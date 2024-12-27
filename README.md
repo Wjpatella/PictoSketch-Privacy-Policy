@@ -1,7 +1,9 @@
 # PictoSketch-Privacy-Policy
 
 Privacy Policy for PictoSketch
+
 Effective Date: December 26, 2024
+
 At PictoSketch, your privacy is a top priority. This Privacy Policy explains how we collect, use, and protect your information when you use our app. By using PictoSketch, you agree to the practices described in this policy.
 
 
